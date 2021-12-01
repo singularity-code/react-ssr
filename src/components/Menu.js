@@ -3,10 +3,10 @@ const Menu = () => {
   return (
     <ul>
       <li>
-        <link to="/red">Red</link>
+        <Link to="/red">Red</Link>
       </li>
       <li>
-        <link to="/blue">Blue</link>
+        <Link to="/blue">Blue</Link>
       </li>
     </ul>
   );
